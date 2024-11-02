@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Shai-TaskManger-React/static/css/main.a30a756c.css",
-    "main.js": "/Shai-TaskManger-React/static/js/main.8b9b415e.js",
-    "static/js/453.ed3810f9.chunk.js": "/Shai-TaskManger-React/static/js/453.ed3810f9.chunk.js",
-    "index.html": "/Shai-TaskManger-React/index.html",
-    "main.a30a756c.css.map": "/Shai-TaskManger-React/static/css/main.a30a756c.css.map",
-    "main.8b9b415e.js.map": "/Shai-TaskManger-React/static/js/main.8b9b415e.js.map",
-    "453.ed3810f9.chunk.js.map": "/Shai-TaskManger-React/static/js/453.ed3810f9.chunk.js.map"
+    "main.css": "/TaskManger-React/static/css/main.a30a756c.css",
+    "main.js": "/TaskManger-React/static/js/main.75d4ce59.js",
+    "static/js/453.ed3810f9.chunk.js": "/TaskManger-React/static/js/453.ed3810f9.chunk.js",
+    "index.html": "/TaskManger-React/index.html",
+    "main.a30a756c.css.map": "/TaskManger-React/static/css/main.a30a756c.css.map",
+    "main.75d4ce59.js.map": "/TaskManger-React/static/js/main.75d4ce59.js.map",
+    "453.ed3810f9.chunk.js.map": "/TaskManger-React/static/js/453.ed3810f9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a30a756c.css",
-    "static/js/main.8b9b415e.js"
+    "static/js/main.75d4ce59.js"
   ]
 }
