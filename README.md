@@ -13,10 +13,15 @@ A simple and intuitive task manager application built with React. This app allow
 ### Responsive Design: 
 Works well on both desktop and mobile devices.
 
+
 # Technologies Used
-React: JavaScript library for building user interfaces.
-CSS: Styling the components for a clean and modern look.
-Local Storage: Persisting tasks across sessions.
+### React: 
+   JavaScript library for building user interfaces.
+### CSS: 
+   Styling the components for a clean and modern look.
+### Local Storage: 
+   Persisting tasks across sessions.
+
 
 # Getting Started
 To get a copy of the project up and running on your local machine, follow these steps:
